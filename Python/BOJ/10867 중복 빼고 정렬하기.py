@@ -1,0 +1,5 @@
+N = int(input())
+x = list(map(int, input().split()))
+o = list(set(x))
+o.sort()
+print(*o)
