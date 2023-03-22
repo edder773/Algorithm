@@ -23,7 +23,7 @@ I'm studying algorithm skills with python.
 
 Also, there are annotations in the code in Korean.
 
-If you need andy other explainations about code, you can check my code review at my blog in Korean! (only for the files named with (★)) 
+If you need any other explainations about code, you can check my code review at my blog in Korean! (only for the files named with (★)) 
 
 If you have any questions about this repository, contact me :) 
 
