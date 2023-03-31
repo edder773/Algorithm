@@ -16,8 +16,7 @@ def div(x,n):
         else:
             return mult(mult(temp,temp),x)
 
-
-import sys, math
+import sys
 T = int(sys.stdin.readline())
 for case in range(1,T+1):
     N = int(sys.stdin.readline())
