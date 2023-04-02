@@ -16,6 +16,6 @@ def find(x,n):
             return temp*temp*x % p
 
 import sys
-N, R = map(int, sys.stdin.readline().split())
-p = 1000000007
+N, R, M = map(int, sys.stdin.readline().split())
+p = M
 print(factorial(N)%p*find(factorial(R)*(factorial(N-R)%p),p-2)%p)
