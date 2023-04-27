@@ -1,10 +1,11 @@
-# Algorithm <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+# Algorithm <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
+
 
 ### 한국어
 
 알고리즘을 푼 코드들을 보관하기 위해 만든 git repo 입니다.
 
-백준과 SWEA에서 푼 문제들을 파이썬을 이용하여 해결한 후, 이를 정리했습니다.
+백준과 SWEA에서 푼 문제들을 자바을 이용하여 해결한 후, 이를 정리했습니다.
 
 일부 코드마다 한글로 이해할 수 있게 주석을 달아놨습니다.
 
@@ -17,14 +18,14 @@
 
 ### English
 
-This is my algorithm repository which i solved problems from BOJ or SWEA
+This is my algorithm repository which i solved problems from BOJ or SWEA 
 
-I'm studying algorithm skills with python.
+I'm studying algorithm skills with Java.
 
 Also, there are annotations in the code in Korean.
 
 If you need any other explainations about code, you can check my code review at my blog in Korean! (only for the files named with (★)) 
 
-If you have any questions about this repository, contact me :) 
+If you have any questions about this repository, contact me :) 😊
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:edder7734@gmail.com)
