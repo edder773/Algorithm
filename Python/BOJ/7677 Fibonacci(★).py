@@ -26,4 +26,4 @@ while True:
     else:
         x = [[1,1],[1,0]]
         result = f(x,N)
-        print(result[0][1] % 10000) # n+1이 아닌 n번 째 피보나치 수를 원하므로
+        print(result[0][1] % 10000) # n번 째 피보나치 수
