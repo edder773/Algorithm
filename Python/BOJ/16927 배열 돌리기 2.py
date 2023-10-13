@@ -26,6 +26,7 @@ for i in range(min(N,M)//2): # 내부 스핀 도는 갯수
             spin = arr[i][U]
             arr[i][U] = temp
             temp = spin
-
+    cycle -= 8
+    
 for k in arr:
     print(*k)
