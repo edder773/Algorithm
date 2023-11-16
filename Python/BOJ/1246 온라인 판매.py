@@ -1,7 +1,6 @@
 import sys
 N, M = map(int, sys.stdin.readline().split())
 P = sorted([int(sys.stdin.readline()) for _ in range(M)])
-
 cost = 0
 result = 0
 for i in range(M):

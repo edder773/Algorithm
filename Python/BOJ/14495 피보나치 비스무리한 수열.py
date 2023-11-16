@@ -1,5 +1,4 @@
 import sys
-
 n = int(sys.stdin.readline())
 dp = [0]*117
 dp[1] = 1

@@ -26,5 +26,4 @@ for i in S:
             result += 1    
         else:
             break
-
 print(result)
