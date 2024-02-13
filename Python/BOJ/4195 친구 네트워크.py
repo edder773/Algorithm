@@ -25,4 +25,3 @@ for _ in range(T):
         a, b = sys.stdin.readline().strip().split()
         check(a), check(b)
         union(a,b)
-    

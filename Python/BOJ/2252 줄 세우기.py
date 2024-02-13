@@ -8,6 +8,7 @@ for _ in range(M):
     student[a].append(b)
     visited[b] += 1
 
+# 여기서부터 위상 정렬
 result = []
 queue = deque()
 
